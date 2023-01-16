@@ -30,5 +30,6 @@
 - Growth Mindset Nano-Course <a href="https://global.sacap.edu.za/">SACAP</a>
 - Bachelor of commerce in Accounting <a href="http://www.unizulu.ac.za/">University of Zululand</a>
 
-### Additional
--<a href="https://www.codewars.com/users/Thully1131">Codewars</a>
+### Additional:
+- <a href="https://www.codewars.com/users/Thully1131">Codewars</a>
+- <img src= "https://icons8.com/icon/RbwRtV3OqRAT/codewars">
