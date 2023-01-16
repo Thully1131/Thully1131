@@ -29,3 +29,6 @@
 - Postgraduate diploma in Accountancy preliminary <a href="https://www.ru.ac.za/ ">Rhodes University</a>
 - Growth Mindset Nano-Course <a href="https://global.sacap.edu.za/">SACAP</a>
 - Bachelor of commerce in Accounting <a href="http://www.unizulu.ac.za/">University of Zululand</a>
+
+### Additional
+- CodeWars <a href = "https://www.codewars.com/users/Thully1131">
