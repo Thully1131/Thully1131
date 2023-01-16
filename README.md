@@ -32,4 +32,4 @@
 
 ### Additional:
 - <a href="https://www.codewars.com/users/Thully1131">Codewars</a>
-- <img src= "https://icons8.com/icon/RbwRtV3OqRAT/codewars">
+- ![image](https://user-images.githubusercontent.com/105936959/212711025-f894259c-6c83-4094-b111-6636b1a95326.png)
