@@ -31,5 +31,4 @@
 - Bachelor of commerce in Accounting <a href="http://www.unizulu.ac.za/">University of Zululand</a>
 
 ### Additional:
-- <a href="https://www.codewars.com/users/Thully1131">Codewars</a>
-- ![image](https://user-images.githubusercontent.com/105936959/212711025-f894259c-6c83-4094-b111-6636b1a95326.png)
+![image](https://user-images.githubusercontent.com/105936959/212711025-f894259c-6c83-4094-b111-6636b1a95326.png) <a href="https://www.codewars.com/users/Thully1131">Codewars</a>
