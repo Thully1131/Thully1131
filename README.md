@@ -1,10 +1,9 @@
 ### Hi there, my name is Thulile Mbuthuma and I fully started to transition into Tech in May 2022 👋
 
 1. :notebook: I’m currently doing a System Development Learnership at<a href="https://mindworx.co.za/"> Mindworx</a> 
-2. 📓 I'm also doing a frontend development course with I4GxZURI Cohort 2
-3. 👯 I’m looking to collaborate on mini projects
-4. 😄 Pronouns: She/Her
-5. ⚡ Fun fact: I love reading novels and binge watching series
+2. 👯 I’m looking to collaborate on mini projects
+3. 😄 Pronouns: She/Her
+4. ⚡ Fun fact: I love reading novels,binge watching series and swimming
 
 ### Connect with me on:
 <a href="https://www.linkedin.com/in/thulile-mbuthuma/"><img src="https://user-images.githubusercontent.com/105936959/190251575-071703e2-f549-4185-bfd6-c787e3e55021.png" height="40"/></a>
